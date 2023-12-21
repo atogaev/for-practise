@@ -6,4 +6,3 @@ Project url: https://github.com/atogaev/for-practise.git
 salom
 
 
-
